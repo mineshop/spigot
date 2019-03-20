@@ -1,0 +1,4 @@
+authorization:
+scheduler:
+  firstExecution: 300
+  repeat: 90
