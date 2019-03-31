@@ -1,4 +1,5 @@
-authorization:
-scheduler:
-  firstExecution: 300
-  repeat: 90
+eventLoop:
+  timer:
+    afterRestart: 60
+    delay: 20
+token:

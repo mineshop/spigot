@@ -1,13 +1,10 @@
 name: mineshop
-description: plugin oficial de integração entre loja e servidor para automatização da entrega de produtos vendidos
-version: 1.0.0
-main: br.com.mineshop.spigot.mineshop.Main
+description: plugin oficial de integração entre loja e servidor para automatizar a entrega de produtos vendidos
+version: 2.0.1
+main: br.com.mineshop.plugin.spigot.Main
 load: POSTWORLD
 author: Sapiente <contato@clayderson.com.br>
 website: https://github.com/clayderson/mineshop-spigot
-depend: [msdk]
-softdepend: [msdk]
-
 commands:
   mineshop:
     usage: /<command> <token>
